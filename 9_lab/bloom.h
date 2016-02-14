@@ -21,3 +21,6 @@ void bloom_init(bloom_filter_t *B, index_t size_in_bits);
 void bloom_destroy(bloom_filter_t *B);
 int bloom_check(bloom_filter_t *B, key_t k);
 void bloom_add(bloom_filter_t *B, key_t k);
+;
+int* random_int_array(int N);
+int experiment(int* array1, int* array2);
