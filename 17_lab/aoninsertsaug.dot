@@ -1,0 +1,26 @@
+
+    digraph G {
+    nodesep=0.3;
+    ranksep=0.2;
+    margin=0.1;
+    node [shape=circle];
+    edge [arrowsize=0.8];
+    "90b8f904-d08b-4325-a8e5-89626e3ddda5" -> "4c75013d-80b7-476e-b4d6-76ed0095dd62"[side=left];
+"90b8f904-d08b-4325-a8e5-89626e3ddda5" -> "a194ce96-97d6-479c-bcd3-103a8ed37d70"[side=right];
+"a194ce96-97d6-479c-bcd3-103a8ed37d70" -> "d788bc95-db52-4c62-8a26-275b43e5d7da"[side=left];
+"d788bc95-db52-4c62-8a26-275b43e5d7da" -> "f538d94e-6ed3-4aad-8dea-c4d8edcee606"[side=left];
+"f538d94e-6ed3-4aad-8dea-c4d8edcee606" -> "4d814082-cf7a-46f1-b281-a93394582580"[side=left];
+"4d814082-cf7a-46f1-b281-a93394582580" -> "80d076b0-7d24-4224-8ec7-9f58df45db7e"[side=right];
+"d788bc95-db52-4c62-8a26-275b43e5d7da" -> "792034e4-e52c-455d-87d1-3ae8e02a41a1"[side=right];
+"792034e4-e52c-455d-87d1-3ae8e02a41a1" -> "29c1ccdf-3348-46b0-8812-a660dc048013"[side=left];
+"a194ce96-97d6-479c-bcd3-103a8ed37d70" -> "0a6d2b12-aad2-44e4-a70a-93562519163a"[side=right];
+"4d814082-cf7a-46f1-b281-a93394582580"[label=<7<BR/><FONT POINT-SIZE="10">2,1</FONT>>]
+"29c1ccdf-3348-46b0-8812-a660dc048013"[label=<16<BR/><FONT POINT-SIZE="10">1,1</FONT>>]
+"80d076b0-7d24-4224-8ec7-9f58df45db7e"[label=<8<BR/><FONT POINT-SIZE="10">1,1</FONT>>]
+"d788bc95-db52-4c62-8a26-275b43e5d7da"[label=<11<BR/><FONT POINT-SIZE="10">6,1</FONT>>]
+"90b8f904-d08b-4325-a8e5-89626e3ddda5"[label=<5<BR/><FONT POINT-SIZE="10">10,1</FONT>>]
+"0a6d2b12-aad2-44e4-a70a-93562519163a"[label=<38<BR/><FONT POINT-SIZE="10">1,1</FONT>>]
+"4c75013d-80b7-476e-b4d6-76ed0095dd62"[label=<2<BR/><FONT POINT-SIZE="10">1,1</FONT>>]
+"792034e4-e52c-455d-87d1-3ae8e02a41a1"[label=<29<BR/><FONT POINT-SIZE="10">2,1</FONT>>]
+"a194ce96-97d6-479c-bcd3-103a8ed37d70"[label=<35<BR/><FONT POINT-SIZE="10">8,1</FONT>>]
+"f538d94e-6ed3-4aad-8dea-c4d8edcee606"[label=<9<BR/><FONT POINT-SIZE="10">3,1</FONT>>]}
